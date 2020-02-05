@@ -6,8 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script> -->
-  <!-- <script src="https://kit.fontawesome.com/d5c73f28c4.js" crossorigin="anonymous"></script> -->
   <link rel="stylesheet" type="text/css" media="screen" href="<?php echo $this->getConfig("prefixurl") ?>/public/css/phpht.css">
 </head>
 <?php
