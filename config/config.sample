@@ -9,13 +9,14 @@
 ;
 ; Assets : where the static assets go
 ; Under assets should go js/ css/ etc
-; assets = "assets"
+; assets = "public"
 ;
 ; Home : the main homepage
 ; This can be a PHP file if you want some dynamics
 ; home = "homepage.php"
 ;
 ; URLS : locations of resources
+; appurl = "localhost.localhost"
 ; baseurl = "/"
 ;
 ; DB : the base DB containing user data and possibly models
