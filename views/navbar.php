@@ -10,7 +10,7 @@
         <ul>
           <input class="hidden" id="show-menu" type="checkbox" role="button">
           <li class="menu-link">
-            <a href="<?php echo $this->getConfig("prefixurl") ?>/blog/"><div class="nobreak">blog</div></a>
+            <a href="<?php echo $this->getConfig("prefixurl") ?>/docs/"><div class="nobreak">documentation</div></a>
           </li>
           <?php if($this->isLoggedIn()) { ?>
             <li class="menu-link">

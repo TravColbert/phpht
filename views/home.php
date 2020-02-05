@@ -7,7 +7,7 @@
     </div>
     <div class="subblurb">PHPHT is a lean, secure, Progressive Web App framework using Vue.js, Delight Auth and Mailjet</div>
     <div id="learnmore">
-      <a href="<?php echo $this->getConfig("prefixurl") ?>/blog/" class="buttonstyle compact">Learn more</a>
+      <a href="<?php echo $this->getConfig("prefixurl") ?>/docs/" class="buttonstyle compact">Learn more</a>
     </div>
   </div>
   <div class="container wimpy">
